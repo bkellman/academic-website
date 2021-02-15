@@ -1,0 +1,179 @@
+@article{opdam2017systematic,
+  title={A systematic evaluation of methods for tailoring genome-scale metabolic models},
+  author={Opdam, Sjoerd and Richelle, Anne and Kellman, Benjamin and Li, Shanzhong and Zielinski, Daniel C and Lewis, Nathan E},
+  journal={Cell systems},
+  volume={4},
+  number={3},
+  pages={318--329},
+  year={2017},
+  publisher={Cell Press}
+}
+
+@article{autran2018human,
+  title={Human milk oligosaccharide composition predicts risk of necrotising enterocolitis in preterm infants},
+  author={Autran, Chloe A and Kellman, Benjamin P and Kim, Jae H and Asztalos, Elizabeth and Blood, Arlin B and Spence, Erin C Hamilton and Patel, Aloka L and Hou, Jiayi and Lewis, Nathan E and Bode, Lars},
+  journal={Gut},
+  volume={67},
+  number={6},
+  pages={1064--1070},
+  year={2018},
+  publisher={BMJ Publishing Group}
+}
+
+@article{chiang2019combating,
+  title={Combating viral contaminants in CHO cells by engineering innate immunity},
+  author={Chiang, Austin WT and Li, Shangzhong and Kellman, Benjamin P and Chattopadhyay, Gouri and Zhang, Yaqin and Kuo, Chih-Chung and Gutierrez, Jahir M and Ghazi, Faezeh and Schmeisser, Hana and M{\'e}nard, Patrice and others},
+  journal={Scientific reports},
+  volume={9},
+  number={1},
+  pages={1--15},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+
+@article{al2018optimization,
+  title={Optimization of carbon and energy utilization through differential translational efficiency},
+  author={Al-Bassam, Mahmoud M and Kim, Ji-Nu and Zaramela, Livia S and Kellman, Benjamin P and Zuniga, Cristal and Wozniak, Jacob M and Gonzalez, David J and Zengler, Karsten},
+  journal={Nature communications},
+  volume={9},
+  number={1},
+  pages={1--13},
+  year={2018},
+  publisher={Nature Publishing Group}
+}
+
+@article{landig2019evolution,
+  title={Evolution of the exclusively human pathogen Neisseria gonorrhoeae: Human-specific engagement of immunoregulatory Siglecs},
+  author={Landig, Corinna S and Hazel, Ashley and Kellman, Benjamin P and Fong, Jerry J and Schwarz, Flavio and Agarwal, Sarika and Varki, Nissi and Massari, Paola and Lewis, Nathan E and Ram, Sanjay and others},
+  journal={Evolutionary applications},
+  volume={12},
+  number={2},
+  pages={337--349},
+  year={2019}
+}
+
+@article{bao2019correcting,
+  title={Correcting for sparsity and non-independence in glycomic data through a systems biology framework},
+  author={Bao, Bokan and Kellman, Benjamin P and Chiang, Austin WT and York, Austin K and Mohammad, Mahmoud A and Haymond, Morey W and Bode, Lars and Lewis, Nathan E},
+  journal={bioRxiv},
+  pages={693507},
+  year={2019},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{connor2019ncbi,
+  title={NCBI’s virus discovery Hackathon: Engaging research communities to identify cloud infrastructure requirements},
+  author={Connor, Ryan and Brister, Rodney and Buchmann, Jan P and Deboutte, Ward and Edwards, Rob and Mart{\'\i}-Carreras, Joan and Tisza, Mike and Zalunin, Vadim and Andrade-Mart{\'\i}nez, Juan and Cantu, Adrian and others},
+  journal={Genes},
+  volume={10},
+  number={9},
+  pages={714},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@article{gazestani2019perturbed,
+  title={A perturbed gene network containing PI3K/AKT, RAS/ERK, WNT/$\beta$-catenin pathways in leukocytes is linked to ASD genetics and symptom severity},
+  author={Gazestani, Vahid H and Pramparo, Tiziano and Nalabolu, Srinivasa and Kellman, Benjamin P and Murray, Sarah and Lopez, Linda and Pierce, Karen and Courchesne, Eric and Lewis, Nathan E},
+  journal={bioRxiv},
+  pages={435917},
+  year={2019},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{liang2020markov,
+  title={A Markov model of glycosylation elucidates isozyme specificity and glycosyltransferase interactions for glycoengineering},
+  author={Liang, Chenguang and Chiang, Austin WT and Hansen, Anders H and Arnsdorf, Johnny and Schoffelen, Sanne and Sorrentino, James T and Kellman, Benjamin P and Bao, Bokan and Voldborg, Bj{\o}rn G and Lewis, Nathan E},
+  journal={Current research in biotechnology},
+  volume={2},
+  pages={22--36},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{kellman2021multiple,
+  title={Multiple freeze-thaw cycles lead to a loss of consistency in poly (A)-enriched RNA sequencing},
+  author={Kellman, Benjamin P and Baghdassarian, Hratch M and Pramparo, Tiziano and Shamie, Isaac and Gazestani, Vahid and Begzati, Arjana and Li, Shangzhong and Nalabolu, Srinivasa and Murray, Sarah and Lopez, Linda and others},
+  journal={BMC genomics},
+  volume={22},
+  number={1},
+  pages={1--15},
+  year={2021},
+  publisher={BioMed Central}
+}
+
+@article{weiss2020znf263,
+  title={ZNF263 is a transcriptional regulator of heparin and heparan sulfate biosynthesis},
+  author={Weiss, Ryan J and Spahn, Philipp N and Toledo, Alejandro G{\'o}mez and Chiang, Austin WT and Kellman, Benjamin P and Li, Jing and Benner, Christopher and Glass, Christopher K and Gordts, Philip LSM and Lewis, Nathan E and others},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={117},
+  number={17},
+  pages={9311--9317},
+  year={2020},
+  publisher={National Academy of Sciences}
+}
+
+@article{richelle2020does,
+  title={What does your cell really do? Model-based assessment of mammalian cells metabolic functionalities using omics data},
+  author={Richelle, Anne and Kellman, Benjamin P and Wenzel, Alexander T and Chiang, Austin WT and Reagan, Tyler and Gutierrez, Jahir M and Joshi, Chintan and Li, Shangzhong and Liu, Joanne K and Masson, Helen and others},
+  journal={bioRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{kellman2020consensus,
+  title={A consensus-based and readable extension of Linear Code for Reaction Rules (LiCoRR)},
+  author={Kellman, Benjamin P and Zhang, Yujie and Logomasini, Emma and Meinhardt, Eric and Godinez-Macias, Karla P and Chiang, Austin WT and Sorrentino, James T and Liang, Chenguang and Bao, Bokan and Zhou, Yusen and others},
+  journal={Beilstein journal of organic chemistry},
+  volume={16},
+  number={1},
+  pages={2645--2662},
+  year={2020},
+  publisher={Beilstein-Institut}
+}
+
+@article{zhao2020virus,
+  title={Virus-receptor interactions of glycosylated SARS-CoV-2 spike and human ACE2 receptor},
+  author={Zhao, Peng and Praissman, Jeremy L and Grant, Oliver C and Cai, Yongfei and Xiao, Tianshu and Rosenbalm, Katelyn E and Aoki, Kazuhiro and Kellman, Benjamin P and Bridger, Robert and Barouch, Dan H and others},
+  journal={Cell host \& microbe},
+  volume={28},
+  number={4},
+  pages={586--601},
+  year={2020},
+  publisher={Cell Press}
+}
+
+@article{clausen2020sars,
+  title={SARS-CoV-2 infection depends on cellular heparan sulfate and ACE2},
+  author={Clausen, Thomas Mandel and Sandoval, Daniel R and Spliid, Charlotte B and Pihl, Jessica and Perrett, Hailee R and Painter, Chelsea D and Narayanan, Anoop and Majowicz, Sydney A and Kwong, Elizabeth M and McVicar, Rachael N and others},
+  journal={Cell},
+  volume={183},
+  number={4},
+  pages={1043--1057},
+  year={2020},
+  publisher={Cell Press}
+}
+
+@article{martino2020bacterial,
+  title={Bacterial modification of the host glycosaminoglycan heparan sulfate modulates SARS-CoV-2 infectivity},
+  author={Martino, Cameron and Kellman, Benjamin P and Sandoval, Daniel R and Clausen, Thomas Mandel and Marotz, Clarisse A and Song, Se Jin and Wandro, Stephen and Zaramela, Livia S and Ben{\'\i}tez, Rodolfo Antonio Salido and Zhu, Qiyun and others},
+  journal={bioRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{kellman2020elucidating,
+  title={Elucidating Human Milk Oligosaccharide biosynthetic genes through network-based multi-omics integration},
+  author={Kellman, Benjamin P and Richelle, Anne and Yang, Jeong-Yeh E and Chapla, Digantkumar G and Chiang, Austin Wan-Tien and Najera, Julia and Bao, Bokan and Koga, Natalia and Mohammad, Mahmoud A and Bruntse, Anders Bech and others},
+  journal={bioRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{kellman2020big,
+  title={Big-Data Glycomics: Tools to Connect Glycan Biosynthesis to Extracellular Communication},
+  author={Kellman, Benjamin P and Lewis, Nathan E},
+  journal={Trends in Biochemical Sciences},
+  year={2020},
+  publisher={Elsevier Current Trends}
+}
